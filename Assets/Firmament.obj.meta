@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: a3f1e4c9a5ca6b24086d29043c2fac27
+timeCreated: 1469675551
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beacon
+    100002: Dome
+    100004: Dome_MeshPart0
+    100006: Dome_MeshPart1
+    100008: //RootNode
+    100010: guy_lines
+    100012: Hub
+    100014: Lateral
+    100016: Lateral_MeshPart0
+    100018: Lateral_MeshPart1
+    100020: Lateral_MeshPart2
+    100022: Lateral_MeshPart3
+    100024: Leg
+    100026: power_supplies_2
+    100028: Pylon
+    100030: Pylon_MeshPart0
+    100032: Pylon_MeshPart1
+    100034: Pylon_MeshPart2
+    100036: Pylon_MeshPart3
+    100038: Pylon_MeshPart4
+    100040: Pylon_MeshPart5
+    100042: Pylon_Spacer
+    100044: Rope
+    400000: Beacon
+    400002: Dome
+    400004: Dome_MeshPart0
+    400006: Dome_MeshPart1
+    400008: //RootNode
+    400010: guy_lines
+    400012: Hub
+    400014: Lateral
+    400016: Lateral_MeshPart0
+    400018: Lateral_MeshPart1
+    400020: Lateral_MeshPart2
+    400022: Lateral_MeshPart3
+    400024: Leg
+    400026: power_supplies_2
+    400028: Pylon
+    400030: Pylon_MeshPart0
+    400032: Pylon_MeshPart1
+    400034: Pylon_MeshPart2
+    400036: Pylon_MeshPart3
+    400038: Pylon_MeshPart4
+    400040: Pylon_MeshPart5
+    400042: Pylon_Spacer
+    400044: Rope
+    2300000: Beacon
+    2300002: Dome_MeshPart0
+    2300004: Dome_MeshPart1
+    2300006: guy_lines
+    2300008: Hub
+    2300010: Lateral_MeshPart0
+    2300012: Lateral_MeshPart1
+    2300014: Lateral_MeshPart2
+    2300016: Lateral_MeshPart3
+    2300018: Leg
+    2300020: power_supplies_2
+    2300022: Pylon_MeshPart0
+    2300024: Pylon_MeshPart1
+    2300026: Pylon_MeshPart2
+    2300028: Pylon_MeshPart3
+    2300030: Pylon_MeshPart4
+    2300032: Pylon_MeshPart5
+    2300034: Pylon_Spacer
+    2300036: Rope
+    3300000: Beacon
+    3300002: Dome_MeshPart0
+    3300004: Dome_MeshPart1
+    3300006: guy_lines
+    3300008: Hub
+    3300010: Lateral_MeshPart0
+    3300012: Lateral_MeshPart1
+    3300014: Lateral_MeshPart2
+    3300016: Lateral_MeshPart3
+    3300018: Leg
+    3300020: power_supplies_2
+    3300022: Pylon_MeshPart0
+    3300024: Pylon_MeshPart1
+    3300026: Pylon_MeshPart2
+    3300028: Pylon_MeshPart3
+    3300030: Pylon_MeshPart4
+    3300032: Pylon_MeshPart5
+    3300034: Pylon_Spacer
+    3300036: Rope
+    4300000: Beacon
+    4300002: Dome_MeshPart0
+    4300004: Dome_MeshPart1
+    4300006: guy_lines
+    4300008: Hub
+    4300010: Lateral_MeshPart0
+    4300012: Lateral_MeshPart1
+    4300014: Lateral_MeshPart2
+    4300016: Lateral_MeshPart3
+    4300018: Leg
+    4300020: power_supplies_2
+    4300022: Pylon_MeshPart0
+    4300024: Pylon_MeshPart1
+    4300026: Pylon_MeshPart2
+    4300028: Pylon_MeshPart3
+    4300030: Pylon_MeshPart4
+    4300032: Pylon_MeshPart5
+    4300034: Pylon_Spacer
+    4300036: Rope
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
